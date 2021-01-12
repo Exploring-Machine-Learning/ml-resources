@@ -18,6 +18,8 @@ Code and Spyder are free IDEs, and you can make use of Anaconda to simplify pack
 Python virtual environments are great for creating an isolated environment for Python projects.  If you have two separate Python projects that require the same Python library, but different versions, then creating an isolated environment would solve this issue without having to change the version in the system.  
 
 ### For Linux or MacOs
+For Linux or MacOs, we will be using the virtualenv tool to create our isolated Python environments. <br/> 
+
 First, install pip: <br />
 `$ wget https://bootstrap.pypa.io/get-pip.py` <br />
 `$ sudo python3 get-pip.py`
@@ -38,3 +40,4 @@ Copy and paste the following text below to the ~/.bashrc file.  You can open the
 Then, source your ~/.bashrc: <br />
 `$ source ~/.bashrc`
 
+## For Windows 
