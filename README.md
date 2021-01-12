@@ -41,3 +41,5 @@ Then, source your ~/.bashrc: <br />
 `$ source ~/.bashrc`
 
 ## For Windows 
+
+# Resources
